@@ -1,0 +1,27 @@
+body{
+    color: red;
+}
+.ttl-deeplink-head{
+    padding: 30px 0 40px 0;
+}
+.ttl-deeplink-alert{
+    padding: 30px 0 30px 0;
+}
+.ttl-deeplink-resultado{
+    padding: 30px 0 30px 0;
+}
+.ttl-deeplink-button{
+    padding: 20px 0 20px 0;
+}
+.ttl-deeplink-button .button-buscar{
+    width: 25%;
+}
+.ttl-deeplink-search{
+    padding-bottom: 30px;
+}
+.ttl-deeplink-lista-respuest, .ttl-deeplink-lista-no-existe{
+    padding-bottom: 40px
+}
+.ttl-deeplink-spinner{
+    padding: 30px 0 30px 0;
+}
